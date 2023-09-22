@@ -17,7 +17,6 @@ header {
     font-size: 11px;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    position: sticky;
     padding: 10px;
 }
 
